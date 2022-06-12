@@ -27,9 +27,10 @@ a {
 
 }
 
-.slika{
+.slika {
 	text-align: center;
 }
+
 
 .row {
 	border: 2px solid black;
@@ -44,4 +45,17 @@ a {
 		margin-left: 10%!important;
 		margin-right: 10%!important;
 	}
+}
+
+.container{
+	max-width: 1140px;
+	width: 100%;
+	margin: 0 auto;
+}
+
+.naslov {
+	width:100%;
+	display: block;
+	margin: 0 auto;
+	max-width: 592px;
 }
